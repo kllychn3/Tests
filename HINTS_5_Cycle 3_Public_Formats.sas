@@ -1,3 +1,5 @@
+#this is the data dictionary
+
 proc format library=INSERT LIBRARY NAME HERE;
         Value $Stratum
             "CA" = "Appalachia Stratum"
